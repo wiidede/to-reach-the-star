@@ -4,10 +4,8 @@
     "antfu.unocss",
     "antfu.vite",
     "antfu.goto-alias",
-    "csstools.postcss",
     "dbaeumer.vscode-eslint",
     "vue.volar",
-    "lokalise.i18n-ally",
     "streetsidesoftware.code-spell-checker"
   ]
 }
